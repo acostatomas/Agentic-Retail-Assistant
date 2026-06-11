@@ -1,0 +1,58 @@
+[
+  {
+    "sku": "LAPTOP-DELL-XPS-15",
+    "product_name": "Dell XPS 15 Laptop",
+    "branch": "DOT Shopping",
+    "available_quantity": 8,
+    "category": "Laptops"
+  },
+  {
+    "sku": "LAPTOP-LENOVO-THINKPAD-X1",
+    "product_name": "Lenovo ThinkPad X1 Carbon",
+    "branch": "DOT Shopping",
+    "available_quantity": 5,
+    "category": "Laptops"
+  },
+  {
+    "sku": "PHONE-IPHONE-15",
+    "product_name": "iPhone 15",
+    "branch": "Alto Palermo",
+    "available_quantity": 12,
+    "category": "Smartphones"
+  },
+  {
+    "sku": "PHONE-SAMSUNG-S24",
+    "product_name": "Samsung Galaxy S24",
+    "branch": "Alto Palermo",
+    "available_quantity": 0,
+    "category": "Smartphones"
+  },
+  {
+    "sku": "HEADPHONES-SONY-WH1000XM5",
+    "product_name": "Sony WH-1000XM5 Headphones",
+    "branch": "Galerías Pacífico",
+    "available_quantity": 7,
+    "category": "Audio"
+  },
+  {
+    "sku": "TABLET-IPAD-AIR",
+    "product_name": "iPad Air",
+    "branch": "Abasto Shopping",
+    "available_quantity": 3,
+    "category": "Tablets"
+  },
+  {
+    "sku": "WATCH-APPLE-SERIES-9",
+    "product_name": "Apple Watch Series 9",
+    "branch": "Recoleta Mall",
+    "available_quantity": 0,
+    "category": "Wearables"
+  },
+  {
+    "sku": "CAMERA-CANON-EOS-R50",
+    "product_name": "Canon EOS R50 Camera",
+    "branch": "DOT Shopping",
+    "available_quantity": 4,
+    "category": "Cameras"
+  }
+]
