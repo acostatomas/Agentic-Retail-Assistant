@@ -1,6 +1,5 @@
 # Agentic-Retail-Assistant
-# Agentic Retail Assistant
-
+By Tomás Hadi Acosta Aguilera
 **Agentic Retail Assistant** is an agentic AI project focused on retail operations and customer shopping assistance.
 It was built using **IBM watsonx Orchestrate** and integrated with **Confluent**, with the goal of exploring how multiple AI agents can coordinate structured workflows in a business environment.
 
